@@ -36,5 +36,11 @@ npm run dev
 ### Type-Check, Compile and Minify for Production
 
 ```sh
-npm run build
+npm run build-only
+```
+
+### 发布npm包
+
+```sh
+npm publish
 ```
